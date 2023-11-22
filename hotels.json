@@ -6,7 +6,8 @@
     "image": "images/hotel01.jpg",
     "name": "Clarks inn Express",
     "price": 4948,
-    "room": 6
+    "room": 6,
+   "Review": "3.5/5"
   },
   {
     "category": "Deluxe Single Room",
