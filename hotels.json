@@ -1,1 +1,92 @@
-[{"category":"Deluxe Single Room","description":"Located in INDIA, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. ","id":0,"image":"images/hotel01.jpg","name":"Doreen Hotel Dhaka","price":5097,"room":0},{"category":"Deluxe Single Room","description":"Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. ","id":1,"image":"images/hotel02.jpg","name":"Royal Park Residence Hotel","price":2375,"room":0},{"category":"Premier Single Room","description":"Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. ","id":2,"image":"images/hotel03.jpg","name":"Hotel 71","price":2375,"room":0},{"category":"Deluxe King Room","description":"Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. ","id":3,"image":"images/hotel04.jpg","name":"Hotel Grand Cicle Inn","price":2576,"room":0},{"category":"Standard Signle Room","description":"Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. ","id":4,"image":"images/hotel05.jpg","name":"Hotel Shuktara","price":3100,"room":0},{"category":"Standard Double Room","description":"Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. ","id":5,"image":"images/hotel06.jpg","name":"Hotel","price":5200,"room":0},{"category":"Standard Double Room","description":"Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. ","id":6,"image":"images/hotel07.jpg","name":"Rafflesia Serviced Apartments","price":5100,"room":0},{"category":"Deluxe Single Room","description":"Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. ","id":7,"image":"images/hotel08.jpg","name":"Hotel the Rahamania","price":2300,"room":0},{"category":"Standard Single Room","description":"Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. ","id":8,"image":"images/hotel09.jpg","name":"Bengal Blueberry","price":3200,"room":0},{"category":"Premier Single Room","description":"Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. ","id":9,"image":"images/hotel10.jpg","name":"Grace 21","price":3200,"room":-1}]
+[
+  {
+    "category": "Deluxe Single Room",
+    "description": "Pakhowal Rd, Model Gram, Ludhiana, Punjab 141001•098881 55592",
+    "id": 0,
+    "image": "images/hotel01.jpg",
+    "name": "Clarks inn Express",
+    "price": 4948,
+    "room": 6
+  },
+  {
+    "category": "Deluxe Single Room",
+    "description": "BXX-2610, Ferozepur Rd, near BHAI BALA CHOWK, Ghumar Mandi, Ludhiana, Punjab 141001•0161 434 1000",
+    "id": 1,
+    "image": "images/hotel02.jpg",
+    "name": "Hotel Nagpal REGENCY",
+    "price": 2375,
+    "room": 10
+  },
+  {
+    "category": "Premier Single Room",
+    "description": "1375/1A Field Ganj Road, G.T. Road, Bearing Rd, opposite Jagraon Bridge ( Towards West Pass ), Field Gunj, Ludhiana, Punjab 141008•0161 504 1122",
+    "id": 2,
+    "image": "images/hotel03.jpg",
+    "name": "Itsy By Treebo - P Grand",
+    "price": 3015,
+    "room": 9
+  },
+  {
+    "category": "Deluxe King Room",
+    "description": "6th Floor Pavilion Mall, Punjab 141001•0161 461 6060",
+    "id": 3,
+    "image": "images/hotel04.jpg",
+    "name": "The Stories",
+    "price": 2576,
+    "room": 3
+  },
+  {
+    "category": "Standard Signle Room",
+    "description": "2 Min Walk, opposite Railway Station, Grand Trunk Rd, near Wholesale Markets, Ludhiana, Punjab 141008•098726 00607",
+    "id": 4,
+    "image": "images/hotel05.jpg",
+    "name": "Hotel The Taksonz",
+    "price": 3100,
+    "room": 0
+  },
+  {
+    "category": "Standard Double Room",
+    "description": "SCO No. 40-45, Sector 38, Chandigarh Rd, Sector 38, Ludhiana, Punjab 141010•0161 450 3111",
+    "id": 5,
+    "image": "images/hotel06.jpg",
+    "name": "Hotel Rigal Blu",
+    "price": 2549,
+    "room": 5
+  },
+  {
+    "category": "Standard Double Room",
+    "description": "Mbd Neopolis, Ferozepur Rd, Near Octroi, Rajguru Nagar Extension, New Sunder Nagar, Ludhiana, Punjab 141012•0161 430 3000",
+    "id": 6,
+    "image": "images/hotel07.jpg",
+    "name": "Radisson Blu Hotel",
+    "price": 9999,
+    "room": 2
+  },
+  {
+    "category": "Deluxe Single Room",
+    "description": "Site No. 4 Ferozepur Road, Ludhiana, Punjab 141001•082840 00250",
+    "id": 7,
+    "image": "images/hotel08.jpg",
+    "name": "Hyatt Regency",
+    "price": 4599,
+    "room": 4
+  },
+  {
+    "category": "Standard Single Room",
+    "description": "Village, Ramgarh Rd, Mangli (Uchi), Ludhiana, Punjab 142017",
+    "id": 8,
+    "image": "images/hotel09.jpg",
+    "name": "Grand Heritage Hotel & Resort",
+    "price": 3200,
+    "room": 0
+  },
+  {
+    "category": "Premier Single Room",
+    "description": "Near Silver OAK Garden, Pakhowal Rd, Ludhiana, Punjab 141022•095920 99950",
+    "id": 9,
+    "image": "images/hotel10.jpg",
+    "name": "AAGAAZ Hotel",
+    "price": 3200,
+    "room": 8
+  }
+]
